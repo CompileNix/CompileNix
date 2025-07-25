@@ -8,9 +8,5 @@ My personal website: [compilenix.org](https://compilenix.org/)
 
 ## GitHub Stats
 
-<a href="https://github.com/CompileNix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CompileNix&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/CompileNix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileNix&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CompileNix&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileNix&layout=compact" />
